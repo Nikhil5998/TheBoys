@@ -42,9 +42,6 @@ ul li ul.dropdown{
     z-index: 999;
     display: none;
 }
-ul li a:hover{
-    background: #f32727;
-}
 ul li:hover ul.dropdown{
     display: list-item;
     display: grid;
